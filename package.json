@@ -1,0 +1,7 @@
+{
+  "name": "Github_Webhook_Action",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+  }
+}
